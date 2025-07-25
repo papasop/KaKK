@@ -8,7 +8,8 @@ Structural Entropy Balance in Euler–Riemann Systems: A Ratio Spectrum Approach
 
 This repository accompanies the paper:
 
-> **"Balancing Eulerian Structure and Riemann Entropy: A Ratio Spectrum Study"**  
+Structural Entropy Balance in Euler–Riemann Systems: A Ratio Spectrum Approach
+> https://doi.org/10.5281/zenodo.16417515
 > Y.Y.N. Li (2025)
 
 We investigate the **entropy ratio** between:
